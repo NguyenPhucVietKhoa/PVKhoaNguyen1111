@@ -17,9 +17,9 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 * Nguyen, P.V.K., Langrand, B., Massa, F., Hubert, C., Leconte, N., 2026. *Cost-effectiveness of super-element and mean-field homogenization approaches for linear elastic multiscale problems requiring localization*. Computers & Structures 332, 108459. [https://doi.org/10.1016/j.compstruc.2026.108459](https://doi.org/10.1016/j.compstruc.2026.108459)
 
-* Nguyen, P.V.K., Massa, F., Hubert, C., Langrand, B., Leconte, N., 2026. A Hybrid-Displacement POD-based finite element formulation: Application to a linear elastic perforated plate. Finite Elements in Analysis and Design 257, 104552. [https://doi.org/10.1016/j.finel.2026.104552](https://doi.org/10.1016/j.finel.2026.104552)
+* Nguyen, P.V.K., Massa, F., Hubert, C., Langrand, B., Leconte, N., 2026. *A Hybrid-Displacement POD-based finite element formulation: Application to a linear elastic perforated plate*. Finite Elements in Analysis and Design 257, 104552. [https://doi.org/10.1016/j.finel.2026.104552](https://doi.org/10.1016/j.finel.2026.104552)
 
-* Roqueta, F., Boutaleb, M., Nguyen, P.V.K., Mencik, J.-M., 2024. Numerical strategies for the prediction of patterned wafer warpage during manufacturing process, in: 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE). Presented at the 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), pp. 1–6. [https://doi.org/10.1109/EuroSimE60745.2024.10491558](https://doi.org/10.1109/EuroSimE60745.2024.10491558)
+* Roqueta, F., Boutaleb, M., Nguyen, P.V.K., Mencik, J.-M., 2024. *Numerical strategies for the prediction of patterned wafer warpage during manufacturing process*, in: 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE). Presented at the 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), pp. 1–6. [https://doi.org/10.1109/EuroSimE60745.2024.10491558](https://doi.org/10.1109/EuroSimE60745.2024.10491558)
 
 
 ## Communications
