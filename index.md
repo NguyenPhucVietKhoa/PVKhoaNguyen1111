@@ -21,7 +21,6 @@ During my academic journey, I interned at prominent companies in France. In 2023
 
 * Roqueta, F., Boutaleb, M., Nguyen, P.V.K., Mencik, J.-M., 2024. *Numerical strategies for the prediction of patterned wafer warpage during manufacturing process*, in: 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE). Presented at the 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE), pp. 1–6. [https://doi.org/10.1109/EuroSimE60745.2024.10491558](https://doi.org/10.1109/EuroSimE60745.2024.10491558)
 
-
 ## Communications
 
 * **2026, Giens, France** - [*17e Colloque National en Calcul des Stryctures - CSMA 2026*](https://csma2026.sciencesconf.org/): Formulation d’un super-élément Hybride-Trefftz Déplacement-POD perforé. [(hal-05631800)](https://hal.science/hal-05631800)
